@@ -130,8 +130,15 @@ h1 {
   }
   .message {
     height: 2rem;
+    font-size: 1.7rem;
   }
   .between {
     font-size: 1rem;
+  }
+  .label-score {
+    font-size: 1.5rem;
+  }
+  .label-highscore {
+    font-size: 1.5rem;
   }
 }
