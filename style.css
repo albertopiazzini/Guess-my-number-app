@@ -119,6 +119,9 @@ h1 {
 }
 
 @media screen and (max-width: 500px) {
+  .h1 {
+    margin: 15px;
+  }
   .guess {
     width: 15rem;
   }
