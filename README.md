@@ -9,5 +9,5 @@ Once you enter the number you are told the number to guess is smaller or larger 
 
 The application keeps track of your scores and displays your best score on the screen. 
 
-If you want to try:<a href="https://guessmynum-albertopiazzini.netlify.app">PLAY NOW</a></p>
+If you want to try: <a href="https://guessmynum-albertopiazzini.netlify.app">PLAY NOW</a></p>
 
