@@ -11,3 +11,9 @@ The application keeps track of your scores and displays your best score on the s
 
 If you want to try: <a href="https://guessmynum-albertopiazzini.netlify.app">PLAY NOW</a></p>
 
+<h2> Development </h2>
+
+<p>The logic of this project is written completely in Javascript. </p>
+
+
+
